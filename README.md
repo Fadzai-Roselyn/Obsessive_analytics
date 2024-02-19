@@ -8,19 +8,19 @@ I got a dataset from Kaggle once I decided tha I wanted to look in to mental hea
 I used the following tech tools;
 
 Python
-EDA to understand the data summary and structure, as well as converting any inaccurate data types
+<li>EDA to understand the data summary and structure, as well as converting any inaccurate data types
 
 SQL
-Data extraction aand grouping to answer questions
+<li>Data extraction aand grouping to answer questions
 
 Excel
-Use of pivot tables to elicit information and potential alternative dashboard
+<li>Use of pivot tables to elicit information and potential alternative dashboard
 
 Tableau
-Data visualization and story telling
+<li>Data visualization and story telling
 
 Microsoft PowerPoint
-Compilation and presentation of project
+<li>Compilation and presentation of project
 
 ## Results
 There were small weak positive and negative correlations. The highest, though still quite weak was a small positive correlation between Y-BOCS score for compulsion and symptom duration. This suggests that the linear relationships between these variables are not strong and there is a need for deeper statistical analyses to draw more conclusions about the relationships between the variables.
