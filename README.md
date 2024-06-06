@@ -1,7 +1,7 @@
 # Obsessive analytics: A dive into OCD patient data
 ## Project/Goals
 -Examine the impact of family history, gender, ethnicity and age on the manifestation of obsessions and compulsions
--Make use of the tools that I learnt; Python, SQL, Excel and Tableau to make sense of the data
+<li> Make use of the tools that I learnt; Python, SQL, Excel and Tableau to make sense of the data
 
 ## Process
 I got a dataset from Kaggle once I decided tha I wanted to look in to mental health
